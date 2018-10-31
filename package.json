@@ -1,0 +1,11 @@
+{
+    "name": "messaging",
+    "author": "HOCINE ISMAIL",
+    "version": "0.0.1",
+    "description": "app messaging with realtime",
+    "dependencies": {
+        "express": "^4.16.4",
+        "path": "^0.12.7",
+        "socket.io": "^2.1.1"
+    }
+}
